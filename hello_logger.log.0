@@ -1,0 +1,4012 @@
+Mar. 24, 2022 1:13:39 PM workshop06_code.SQLiteConnectionManager createNewDatabase
+INFO: The driver name is SQLite JDBC.
+ A new database has been created.
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Wordle created and connected.
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Wordle structures in place.
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added able to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added acid to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added aged to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added also to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added area to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added army to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added away to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added baby to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added back to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added ball to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added band to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added bank to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added base to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added bath to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added bear to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added beat to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added been to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added beer to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added bell to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added belt to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added best to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added bill to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added bird to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added blow to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added blue to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added boat to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added body to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added bomb to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added bond to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added bone to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added book to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added boom to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added born to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added boss to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added both to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added bowl to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added bulk to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added burn to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added bush to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added busy to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added call to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added calm to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added came to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added camp to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added card to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added care to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added case to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added cash to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added cast to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added cell to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added chat to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added chip to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added city to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added club to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added coal to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added coat to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added code to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added cold to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added come to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added cook to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added cool to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added cope to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added copy to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+SEVERE: Attempt to import CORE to db. Not a valid word.
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added cost to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added crew to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added crop to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added dark to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added data to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added date to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added dawn to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added days to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added dead to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added deal to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added dean to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added dear to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added debt to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added deep to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added deny to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added desk to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added dial to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added dick to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added diet to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added disc to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added disk to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added does to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added done to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added door to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added dose to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added down to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added draw to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added drew to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added drop to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added drug to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added dual to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added duke to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added dust to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added duty to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added each to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added earn to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added ease to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added east to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added easy to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added edge to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added else to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added even to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added ever to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added evil to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added exit to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added face to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added fact to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added fail to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added fair to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added fall to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added farm to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added fast to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added fate to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added fear to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added feed to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added feel to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added feet to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added fell to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added felt to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added file to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added fill to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added film to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added find to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added fine to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added fire to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added firm to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added fish to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added five to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added flat to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added flow to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added food to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added foot to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added ford to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added form to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added fort to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added four to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added free to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added from to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added fuel to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added full to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added fund to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added gain to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added game to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added gate to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added gave to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added gear to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added gene to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added gift to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added girl to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added give to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added glad to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added goal to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added goes to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added gold to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+SEVERE: Attempt to import Golf to db. Not a valid word.
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added gone to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added good to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added gray to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added grew to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added grey to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added grow to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added gulf to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added hair to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added half to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added hall to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added hand to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added hang to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added hard to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added harm to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added hate to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added have to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added head to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added hear to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added heat to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added held to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added hell to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added help to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added here to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added hero to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added high to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added hill to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added hire to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added hold to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added hole to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added holy to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added home to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added hope to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added host to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added hour to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added huge to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added hung to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added hunt to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added hurt to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added idea to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added inch to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added into to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added iron to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added item to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added jack to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added jane to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added jean to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added john to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added join to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added jump to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added jury to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added just to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added keen to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added keep to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added kent to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added kept to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added kick to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added kill to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added kind to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added king to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added knee to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added knew to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added know to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added lack to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added lady to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added laid to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added lake to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added land to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added lane to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added last to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added late to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added lead to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added left to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added less to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added life to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added lift to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added like to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added line to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added link to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added list to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added live to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added load to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added loan to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added lock to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added logo to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added long to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added look to db
+Mar. 24, 2022 1:13:39 PM workshop06_code.App main
+INFO: Added lord to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added lose to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added loss to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added lost to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added love to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added luck to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added made to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added mail to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added main to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added make to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added male to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added many to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+SEVERE: Attempt to import Mark to db. Not a valid word.
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added mass to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added matt to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added meal to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added mean to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added meat to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added meet to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added menu to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added mere to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added mike to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added mile to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added milk to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added mill to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added mind to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added mine to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added miss to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added mode to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added mood to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added moon to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added more to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added most to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added move to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added much to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added must to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added name to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added navy to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added near to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added neck to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added need to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added news to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added next to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added nice to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added nick to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added nine to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added none to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added nose to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added note to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added okay to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added once to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added only to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added onto to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added open to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added oral to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added over to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added pace to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added pack to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added page to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added paid to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added pain to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added pair to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added palm to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added park to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added part to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added pass to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added past to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added path to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added peak to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added pick to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added pink to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added pipe to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added plan to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added play to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added plot to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added plug to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added plus to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added poll to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added pool to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added poor to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added port to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added post to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added pull to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added pure to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added push to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added race to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added rail to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added rain to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added rank to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added rare to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added rate to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added read to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added real to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added rear to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added rely to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added rent to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added rest to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added rice to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added rich to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added ride to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added ring to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added rise to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added risk to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added road to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added rock to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added role to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added roll to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added roof to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added room to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added root to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added rose to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added rule to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added rush to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added ruth to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added safe to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added said to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added sake to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added sale to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added salt to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added same to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added sand to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added save to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added seat to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added seed to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added seek to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added seem to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added seen to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added self to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added sell to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added send to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added sent to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added sept to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added ship to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added shop to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added shot to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added show to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added shut to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added sick to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added side to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added sign to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added site to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added size to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added skin to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added slip to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added slow to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added snow to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added soft to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added soil to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added sold to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added sole to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added some to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added song to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added soon to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added sort to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added soul to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added spot to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added star to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added stay to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added step to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added stop to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added such to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added suit to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added sure to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added take to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added tale to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added talk to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added tall to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added tank to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added tape to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added task to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added team to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added tech to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added tell to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added tend to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added term to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added test to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added text to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added than to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added that to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added them to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added then to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added they to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added thin to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added this to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added thus to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added till to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added time to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added tiny to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added told to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added toll to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added tone to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added tony to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added took to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added tool to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added tour to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added town to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added tree to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added trip to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added true to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added tune to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added turn to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added twin to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added type to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added unit to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added upon to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added used to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added user to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added vary to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added vast to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added very to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added vice to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added view to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added vote to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added wage to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added wait to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added wake to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added walk to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added wall to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added want to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added ward to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added warm to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added wash to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added wave to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added ways to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added weak to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added wear to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added week to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added well to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added went to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added were to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added west to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added what to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added when to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added whom to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added wide to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added wife to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added wild to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added will to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added wind to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added wine to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added wing to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added wire to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added wise to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added wish to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added with to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added wood to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added word to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added wore to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added work to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added yard to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added yeah to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added year to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added your to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added zero to db
+Mar. 24, 2022 1:13:40 PM workshop06_code.App main
+INFO: Added zone to db
+Mar. 24, 2022 1:33:37 PM workshop06_code.SQLiteConnectionManager createNewDatabase
+INFO: The driver name is SQLite JDBC.
+ A new database has been created.
+Mar. 24, 2022 1:33:37 PM workshop06_code.App main
+INFO: Wordle created and connected.
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Wordle structures in place.
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'able' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'acid' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'aged' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'also' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'area' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'army' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'away' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'baby' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'back' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'ball' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'band' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'bank' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'base' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'bath' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'bear' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'beat' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'been' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'beer' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'bell' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'belt' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'best' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'bill' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'bird' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'blow' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'blue' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'boat' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'body' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'bomb' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'bond' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'bone' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'book' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'boom' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'born' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'boss' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'both' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'bowl' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'bulk' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'burn' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'bush' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'busy' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'call' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'calm' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'came' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'camp' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'card' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'care' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'case' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'cash' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'cast' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'cell' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'chat' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'chip' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'city' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'club' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'coal' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'coat' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'code' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'cold' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'come' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'cook' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'cool' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'cope' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'copy' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'cost' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'crew' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'crop' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'dark' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'data' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'date' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'dawn' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'days' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'dead' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'deal' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'dean' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'dear' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'debt' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'deep' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'deny' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'desk' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'dial' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'dick' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'diet' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'disc' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'disk' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'does' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'done' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'door' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'dose' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'down' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'draw' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'drew' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'drop' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'drug' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'dual' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'duke' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'dust' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'duty' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'each' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'earn' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'ease' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'east' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'easy' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'edge' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'else' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'even' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'ever' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'evil' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'exit' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'face' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'fact' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'fail' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'fair' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'fall' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'farm' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'fast' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'fate' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'fear' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'feed' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'feel' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'feet' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'fell' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'felt' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'file' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'fill' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'film' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'find' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'fine' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'fire' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'firm' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'fish' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'five' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'flat' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'flow' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'food' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'foot' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'ford' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'form' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'fort' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'four' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'free' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'from' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'fuel' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'full' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'fund' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'gain' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'game' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'gate' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'gave' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'gear' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'gene' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'gift' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'girl' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'give' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'glad' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'goal' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'goes' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'gold' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'gone' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'good' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'gray' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'grew' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'grey' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'grow' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'gulf' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'hair' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'half' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'hall' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'hand' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'hang' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'hard' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'harm' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'hate' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'have' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'head' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'hear' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'heat' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'held' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'hell' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'help' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'here' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'hero' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'high' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'hill' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'hire' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'hold' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'hole' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'holy' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'home' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'hope' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'host' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'hour' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'huge' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'hung' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'hunt' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'hurt' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'idea' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'inch' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'into' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'iron' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'item' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'jack' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'jane' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'jean' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'john' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'join' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'jump' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'jury' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'just' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'keen' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'keep' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'kent' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'kept' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'kick' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'kill' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'kind' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'king' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'knee' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'knew' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'know' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'lack' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'lady' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'laid' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'lake' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'land' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'lane' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'last' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'late' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'lead' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'left' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'less' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'life' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'lift' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'like' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'line' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'link' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'list' to db
+Mar. 24, 2022 1:33:38 PM workshop06_code.App main
+INFO: Added 'live' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'load' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'loan' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'lock' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'logo' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'long' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'look' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'lord' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'lose' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'loss' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'lost' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'love' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'luck' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'made' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'mail' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'main' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'make' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'male' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'many' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'mass' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'matt' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'meal' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'mean' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'meat' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'meet' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'menu' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'mere' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'mike' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'mile' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'milk' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'mill' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'mind' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'mine' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'miss' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'mode' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'mood' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'moon' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'more' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'most' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'move' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'much' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'must' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'name' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'navy' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'near' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'neck' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'need' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'news' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'next' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'nice' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'nick' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'nine' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'none' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'nose' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'note' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'okay' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'once' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'only' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'onto' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'open' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'oral' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'over' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'pace' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'pack' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'page' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'paid' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'pain' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'pair' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'palm' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'park' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'part' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'pass' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'past' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'path' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'peak' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'pick' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'pink' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'pipe' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'plan' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'play' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'plot' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'plug' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'plus' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'poll' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'pool' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'poor' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'port' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'post' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'pull' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'pure' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'push' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'race' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'rail' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'rain' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'rank' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'rare' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'rate' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'read' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'real' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'rear' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'rely' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'rent' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'rest' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'rice' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'rich' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'ride' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'ring' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'rise' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'risk' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'road' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'rock' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'role' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'roll' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'roof' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'room' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'root' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'rose' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'rule' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'rush' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'ruth' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'safe' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'said' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'sake' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'sale' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'salt' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'same' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'sand' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'save' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'seat' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'seed' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'seek' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'seem' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'seen' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'self' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'sell' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'send' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'sent' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'sept' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'ship' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'shop' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'shot' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'show' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'shut' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'sick' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'side' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'sign' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'site' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'size' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'skin' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'slip' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'slow' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'snow' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'soft' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'soil' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'sold' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'sole' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'some' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'song' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'soon' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'sort' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'soul' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'spot' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'star' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'stay' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'step' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'stop' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'such' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'suit' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'sure' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'take' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'tale' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'talk' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'tall' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'tank' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'tape' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'task' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'team' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'tech' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'tell' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'tend' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'term' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'test' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'text' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'than' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'that' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'them' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'then' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'they' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'thin' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'this' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'thus' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'till' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'time' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'tiny' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'told' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'toll' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'tone' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'tony' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'took' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'tool' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'tour' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'town' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'tree' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'trip' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'true' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'tune' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'turn' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'twin' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'type' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'unit' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'upon' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'used' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'user' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'vary' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'vast' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'very' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'vice' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'view' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'vote' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'wage' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'wait' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'wake' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'walk' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'wall' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'want' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'ward' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'warm' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'wash' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'wave' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'ways' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'weak' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'wear' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'week' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'well' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'went' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'were' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'west' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'what' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'when' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'whom' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'wide' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'wife' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'wild' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'will' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'wind' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'wine' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'wing' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'wire' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'wise' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'wish' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'with' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'wood' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'word' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'wore' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'work' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'yard' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'yeah' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'year' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'your' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'zero' to db
+Mar. 24, 2022 1:33:39 PM workshop06_code.App main
+INFO: Added 'zone' to db
+Mar. 24, 2022 1:37:08 PM workshop06_code.SQLiteConnectionManager createNewDatabase
+INFO: The driver name is SQLite JDBC.
+ A new database has been created.
+Mar. 24, 2022 1:37:08 PM workshop06_code.App main
+INFO: Wordle created and connected.
+Mar. 24, 2022 1:37:08 PM workshop06_code.App main
+INFO: Wordle structures in place.
+Mar. 24, 2022 1:37:08 PM workshop06_code.App main
+INFO: Added 'able' to db
+Mar. 24, 2022 1:37:08 PM workshop06_code.App main
+INFO: Added 'acid' to db
+Mar. 24, 2022 1:37:08 PM workshop06_code.App main
+INFO: Added 'aged' to db
+Mar. 24, 2022 1:37:08 PM workshop06_code.App main
+INFO: Added 'also' to db
+Mar. 24, 2022 1:37:08 PM workshop06_code.App main
+INFO: Added 'area' to db
+Mar. 24, 2022 1:37:08 PM workshop06_code.App main
+INFO: Added 'army' to db
+Mar. 24, 2022 1:37:08 PM workshop06_code.App main
+INFO: Added 'away' to db
+Mar. 24, 2022 1:37:08 PM workshop06_code.App main
+INFO: Added 'baby' to db
+Mar. 24, 2022 1:37:08 PM workshop06_code.App main
+INFO: Added 'back' to db
+Mar. 24, 2022 1:37:08 PM workshop06_code.App main
+INFO: Added 'ball' to db
+Mar. 24, 2022 1:37:08 PM workshop06_code.App main
+INFO: Added 'band' to db
+Mar. 24, 2022 1:37:08 PM workshop06_code.App main
+INFO: Added 'bank' to db
+Mar. 24, 2022 1:37:08 PM workshop06_code.App main
+INFO: Added 'base' to db
+Mar. 24, 2022 1:37:08 PM workshop06_code.App main
+INFO: Added 'bath' to db
+Mar. 24, 2022 1:37:08 PM workshop06_code.App main
+INFO: Added 'bear' to db
+Mar. 24, 2022 1:37:08 PM workshop06_code.App main
+INFO: Added 'beat' to db
+Mar. 24, 2022 1:37:08 PM workshop06_code.App main
+INFO: Added 'been' to db
+Mar. 24, 2022 1:37:08 PM workshop06_code.App main
+INFO: Added 'beer' to db
+Mar. 24, 2022 1:37:08 PM workshop06_code.App main
+INFO: Added 'bell' to db
+Mar. 24, 2022 1:37:08 PM workshop06_code.App main
+INFO: Added 'belt' to db
+Mar. 24, 2022 1:37:08 PM workshop06_code.App main
+INFO: Added 'best' to db
+Mar. 24, 2022 1:37:08 PM workshop06_code.App main
+INFO: Added 'bill' to db
+Mar. 24, 2022 1:37:08 PM workshop06_code.App main
+INFO: Added 'bird' to db
+Mar. 24, 2022 1:37:08 PM workshop06_code.App main
+INFO: Added 'blow' to db
+Mar. 24, 2022 1:37:08 PM workshop06_code.App main
+INFO: Added 'blue' to db
+Mar. 24, 2022 1:37:08 PM workshop06_code.App main
+INFO: Added 'boat' to db
+Mar. 24, 2022 1:37:08 PM workshop06_code.App main
+INFO: Added 'body' to db
+Mar. 24, 2022 1:37:08 PM workshop06_code.App main
+INFO: Added 'bomb' to db
+Mar. 24, 2022 1:37:08 PM workshop06_code.App main
+INFO: Added 'bond' to db
+Mar. 24, 2022 1:37:08 PM workshop06_code.App main
+INFO: Added 'bone' to db
+Mar. 24, 2022 1:37:08 PM workshop06_code.App main
+INFO: Added 'book' to db
+Mar. 24, 2022 1:37:08 PM workshop06_code.App main
+INFO: Added 'boom' to db
+Mar. 24, 2022 1:37:08 PM workshop06_code.App main
+INFO: Added 'born' to db
+Mar. 24, 2022 1:37:08 PM workshop06_code.App main
+INFO: Added 'boss' to db
+Mar. 24, 2022 1:37:08 PM workshop06_code.App main
+INFO: Added 'both' to db
+Mar. 24, 2022 1:37:08 PM workshop06_code.App main
+INFO: Added 'bowl' to db
+Mar. 24, 2022 1:37:08 PM workshop06_code.App main
+INFO: Added 'bulk' to db
+Mar. 24, 2022 1:37:08 PM workshop06_code.App main
+INFO: Added 'burn' to db
+Mar. 24, 2022 1:37:08 PM workshop06_code.App main
+INFO: Added 'bush' to db
+Mar. 24, 2022 1:37:08 PM workshop06_code.App main
+INFO: Added 'busy' to db
+Mar. 24, 2022 1:37:08 PM workshop06_code.App main
+INFO: Added 'call' to db
+Mar. 24, 2022 1:37:08 PM workshop06_code.App main
+INFO: Added 'calm' to db
+Mar. 24, 2022 1:37:08 PM workshop06_code.App main
+INFO: Added 'came' to db
+Mar. 24, 2022 1:37:08 PM workshop06_code.App main
+INFO: Added 'camp' to db
+Mar. 24, 2022 1:37:08 PM workshop06_code.App main
+INFO: Added 'card' to db
+Mar. 24, 2022 1:37:08 PM workshop06_code.App main
+INFO: Added 'care' to db
+Mar. 24, 2022 1:37:08 PM workshop06_code.App main
+INFO: Added 'case' to db
+Mar. 24, 2022 1:37:08 PM workshop06_code.App main
+INFO: Added 'cash' to db
+Mar. 24, 2022 1:37:08 PM workshop06_code.App main
+INFO: Added 'cast' to db
+Mar. 24, 2022 1:37:08 PM workshop06_code.App main
+INFO: Added 'cell' to db
+Mar. 24, 2022 1:37:08 PM workshop06_code.App main
+INFO: Added 'chat' to db
+Mar. 24, 2022 1:37:08 PM workshop06_code.App main
+INFO: Added 'chip' to db
+Mar. 24, 2022 1:37:08 PM workshop06_code.App main
+INFO: Added 'city' to db
+Mar. 24, 2022 1:37:08 PM workshop06_code.App main
+INFO: Added 'club' to db
+Mar. 24, 2022 1:37:08 PM workshop06_code.App main
+INFO: Added 'coal' to db
+Mar. 24, 2022 1:37:08 PM workshop06_code.App main
+INFO: Added 'coat' to db
+Mar. 24, 2022 1:37:08 PM workshop06_code.App main
+INFO: Added 'code' to db
+Mar. 24, 2022 1:37:08 PM workshop06_code.App main
+INFO: Added 'cold' to db
+Mar. 24, 2022 1:37:08 PM workshop06_code.App main
+INFO: Added 'come' to db
+Mar. 24, 2022 1:37:08 PM workshop06_code.App main
+INFO: Added 'cook' to db
+Mar. 24, 2022 1:37:08 PM workshop06_code.App main
+INFO: Added 'cool' to db
+Mar. 24, 2022 1:37:08 PM workshop06_code.App main
+INFO: Added 'cope' to db
+Mar. 24, 2022 1:37:08 PM workshop06_code.App main
+INFO: Added 'copy' to db
+Mar. 24, 2022 1:37:08 PM workshop06_code.App main
+INFO: Added 'cost' to db
+Mar. 24, 2022 1:37:08 PM workshop06_code.App main
+INFO: Added 'crew' to db
+Mar. 24, 2022 1:37:08 PM workshop06_code.App main
+INFO: Added 'crop' to db
+Mar. 24, 2022 1:37:08 PM workshop06_code.App main
+INFO: Added 'dark' to db
+Mar. 24, 2022 1:37:08 PM workshop06_code.App main
+INFO: Added 'data' to db
+Mar. 24, 2022 1:37:08 PM workshop06_code.App main
+INFO: Added 'date' to db
+Mar. 24, 2022 1:37:08 PM workshop06_code.App main
+INFO: Added 'dawn' to db
+Mar. 24, 2022 1:37:08 PM workshop06_code.App main
+INFO: Added 'days' to db
+Mar. 24, 2022 1:37:08 PM workshop06_code.App main
+INFO: Added 'dead' to db
+Mar. 24, 2022 1:37:08 PM workshop06_code.App main
+INFO: Added 'deal' to db
+Mar. 24, 2022 1:37:08 PM workshop06_code.App main
+INFO: Added 'dean' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'dear' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'debt' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'deep' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'deny' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'desk' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'dial' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'dick' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'diet' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'disc' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'disk' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'does' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'done' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'door' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'dose' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'down' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'draw' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'drew' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'drop' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'drug' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'dual' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'duke' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'dust' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'duty' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'each' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'earn' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'ease' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'east' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'easy' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'edge' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'else' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'even' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'ever' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'evil' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'exit' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'face' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'fact' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'fail' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'fair' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'fall' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'farm' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'fast' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'fate' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'fear' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'feed' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'feel' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'feet' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'fell' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'felt' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'file' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'fill' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'film' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'find' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'fine' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'fire' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'firm' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'fish' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'five' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'flat' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'flow' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'food' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'foot' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'ford' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'form' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'fort' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'four' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'free' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'from' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'fuel' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'full' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'fund' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'gain' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'game' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'gate' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'gave' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'gear' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'gene' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'gift' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'girl' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'give' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'glad' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'goal' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'goes' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'gold' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'gone' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'good' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'gray' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'grew' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'grey' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'grow' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'gulf' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'hair' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'half' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'hall' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'hand' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'hang' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'hard' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'harm' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'hate' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'have' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'head' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'hear' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'heat' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'held' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'hell' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'help' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'here' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'hero' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'high' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'hill' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'hire' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'hold' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'hole' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'holy' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'home' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'hope' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'host' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'hour' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'huge' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'hung' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'hunt' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'hurt' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'idea' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'inch' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'into' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'iron' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'item' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'jack' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'jane' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'jean' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'john' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'join' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'jump' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'jury' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'just' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'keen' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'keep' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'kent' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'kept' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'kick' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'kill' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'kind' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'king' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'knee' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'knew' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'know' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'lack' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'lady' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'laid' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'lake' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'land' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'lane' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'last' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'late' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'lead' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'left' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'less' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'life' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'lift' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'like' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'line' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'link' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'list' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'live' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'load' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'loan' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'lock' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'logo' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'long' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'look' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'lord' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'lose' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'loss' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'lost' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'love' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'luck' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'made' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'mail' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'main' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'make' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'male' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'many' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'mass' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'matt' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'meal' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'mean' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'meat' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'meet' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'menu' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'mere' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'mike' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'mile' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'milk' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'mill' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'mind' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'mine' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'miss' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'mode' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'mood' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'moon' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'more' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'most' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'move' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'much' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'must' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'name' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'navy' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'near' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'neck' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'need' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'news' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'next' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'nice' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'nick' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'nine' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'none' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'nose' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'note' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'okay' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'once' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'only' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'onto' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'open' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'oral' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'over' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'pace' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'pack' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'page' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'paid' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'pain' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'pair' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'palm' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'park' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'part' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'pass' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'past' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'path' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'peak' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'pick' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'pink' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'pipe' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'plan' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'play' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'plot' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'plug' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'plus' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'poll' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'pool' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'poor' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'port' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'post' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'pull' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'pure' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'push' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'race' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'rail' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'rain' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'rank' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'rare' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'rate' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'read' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'real' to db
+Mar. 24, 2022 1:37:09 PM workshop06_code.App main
+INFO: Added 'rear' to db
+Mar. 24, 2022 1:37:10 PM workshop06_code.App main
+INFO: Added 'rely' to db
+Mar. 24, 2022 1:37:10 PM workshop06_code.App main
+INFO: Added 'rent' to db
+Mar. 24, 2022 1:37:10 PM workshop06_code.App main
+INFO: Added 'rest' to db
+Mar. 24, 2022 1:37:10 PM workshop06_code.App main
+INFO: Added 'rice' to db
+Mar. 24, 2022 1:37:10 PM workshop06_code.App main
+INFO: Added 'rich' to db
+Mar. 24, 2022 1:37:10 PM workshop06_code.App main
+INFO: Added 'ride' to db
+Mar. 24, 2022 1:37:10 PM workshop06_code.App main
+INFO: Added 'ring' to db
+Mar. 24, 2022 1:37:10 PM workshop06_code.App main
+INFO: Added 'rise' to db
+Mar. 24, 2022 1:37:10 PM workshop06_code.App main
+INFO: Added 'risk' to db
+Mar. 24, 2022 1:37:10 PM workshop06_code.App main
+INFO: Added 'road' to db
+Mar. 24, 2022 1:37:10 PM workshop06_code.App main
+INFO: Added 'rock' to db
+Mar. 24, 2022 1:37:10 PM workshop06_code.App main
+INFO: Added 'role' to db
+Mar. 24, 2022 1:37:10 PM workshop06_code.App main
+INFO: Added 'roll' to db
+Mar. 24, 2022 1:37:10 PM workshop06_code.App main
+INFO: Added 'roof' to db
+Mar. 24, 2022 1:37:10 PM workshop06_code.App main
+INFO: Added 'room' to db
+Mar. 24, 2022 1:37:10 PM workshop06_code.App main
+INFO: Added 'root' to db
+Mar. 24, 2022 1:37:10 PM workshop06_code.App main
+INFO: Added 'rose' to db
+Mar. 24, 2022 1:37:10 PM workshop06_code.App main
+INFO: Added 'rule' to db
+Mar. 24, 2022 1:37:10 PM workshop06_code.App main
+INFO: Added 'rush' to db
+Mar. 24, 2022 1:37:10 PM workshop06_code.App main
+INFO: Added 'ruth' to db
+Mar. 24, 2022 1:37:10 PM workshop06_code.App main
+INFO: Added 'safe' to db
+Mar. 24, 2022 1:37:10 PM workshop06_code.App main
+INFO: Added 'said' to db
+Mar. 24, 2022 1:37:10 PM workshop06_code.App main
+INFO: Added 'sake' to db
+Mar. 24, 2022 1:37:10 PM workshop06_code.App main
+INFO: Added 'sale' to db
+Mar. 24, 2022 1:37:10 PM workshop06_code.App main
+INFO: Added 'salt' to db
+Mar. 24, 2022 1:37:10 PM workshop06_code.App main
+INFO: Added 'same' to db
+Mar. 24, 2022 1:37:10 PM workshop06_code.App main
+INFO: Added 'sand' to db
+Mar. 24, 2022 1:37:10 PM workshop06_code.App main
+INFO: Added 'save' to db
+Mar. 24, 2022 1:37:10 PM workshop06_code.App main
+INFO: Added 'seat' to db
+Mar. 24, 2022 1:37:10 PM workshop06_code.App main
+INFO: Added 'seed' to db
+Mar. 24, 2022 1:37:10 PM workshop06_code.App main
+INFO: Added 'seek' to db
+Mar. 24, 2022 1:37:10 PM workshop06_code.App main
+INFO: Added 'seem' to db
+Mar. 24, 2022 1:37:10 PM workshop06_code.App main
+INFO: Added 'seen' to db
+Mar. 24, 2022 1:37:10 PM workshop06_code.App main
+INFO: Added 'self' to db
+Mar. 24, 2022 1:37:10 PM workshop06_code.App main
+INFO: Added 'sell' to db
+Mar. 24, 2022 1:37:10 PM workshop06_code.App main
+INFO: Added 'send' to db
+Mar. 24, 2022 1:37:10 PM workshop06_code.App main
+INFO: Added 'sent' to db
+Mar. 24, 2022 1:37:10 PM workshop06_code.App main
+INFO: Added 'sept' to db
+Mar. 24, 2022 1:37:10 PM workshop06_code.App main
+INFO: Added 'ship' to db
+Mar. 24, 2022 1:37:10 PM workshop06_code.App main
+INFO: Added 'shop' to db
+Mar. 24, 2022 1:37:10 PM workshop06_code.App main
+INFO: Added 'shot' to db
+Mar. 24, 2022 1:37:10 PM workshop06_code.App main
+INFO: Added 'show' to db
+Mar. 24, 2022 1:37:10 PM workshop06_code.App main
+INFO: Added 'shut' to db
+Mar. 24, 2022 1:37:10 PM workshop06_code.App main
+INFO: Added 'sick' to db
+Mar. 24, 2022 1:37:10 PM workshop06_code.App main
+INFO: Added 'side' to db
+Mar. 24, 2022 1:37:10 PM workshop06_code.App main
+INFO: Added 'sign' to db
+Mar. 24, 2022 1:37:10 PM workshop06_code.App main
+INFO: Added 'site' to db
+Mar. 24, 2022 1:37:10 PM workshop06_code.App main
+INFO: Added 'size' to db
+Mar. 24, 2022 1:37:10 PM workshop06_code.App main
+INFO: Added 'skin' to db
+Mar. 24, 2022 1:37:10 PM workshop06_code.App main
+INFO: Added 'slip' to db
+Mar. 24, 2022 1:37:10 PM workshop06_code.App main
+INFO: Added 'slow' to db
+Mar. 24, 2022 1:37:10 PM workshop06_code.App main
+INFO: Added 'snow' to db
+Mar. 24, 2022 1:37:10 PM workshop06_code.App main
+INFO: Added 'soft' to db
+Mar. 24, 2022 1:37:10 PM workshop06_code.App main
+INFO: Added 'soil' to db
+Mar. 24, 2022 1:37:10 PM workshop06_code.App main
+INFO: Added 'sold' to db
+Mar. 24, 2022 1:37:10 PM workshop06_code.App main
+INFO: Added 'sole' to db
+Mar. 24, 2022 1:37:10 PM workshop06_code.App main
+INFO: Added 'some' to db
+Mar. 24, 2022 1:37:10 PM workshop06_code.App main
+INFO: Added 'song' to db
+Mar. 24, 2022 1:37:10 PM workshop06_code.App main
+INFO: Added 'soon' to db
+Mar. 24, 2022 1:37:10 PM workshop06_code.App main
+INFO: Added 'sort' to db
+Mar. 24, 2022 1:37:10 PM workshop06_code.App main
+INFO: Added 'soul' to db
+Mar. 24, 2022 1:37:10 PM workshop06_code.App main
+INFO: Added 'spot' to db
+Mar. 24, 2022 1:37:10 PM workshop06_code.App main
+INFO: Added 'star' to db
+Mar. 24, 2022 1:37:10 PM workshop06_code.App main
+INFO: Added 'stay' to db
+Mar. 24, 2022 1:37:10 PM workshop06_code.App main
+INFO: Added 'step' to db
+Mar. 24, 2022 1:37:10 PM workshop06_code.App main
+INFO: Added 'stop' to db
+Mar. 24, 2022 1:37:10 PM workshop06_code.App main
+INFO: Added 'such' to db
+Mar. 24, 2022 1:37:10 PM workshop06_code.App main
+INFO: Added 'suit' to db
+Mar. 24, 2022 1:37:10 PM workshop06_code.App main
+INFO: Added 'sure' to db
+Mar. 24, 2022 1:37:10 PM workshop06_code.App main
+INFO: Added 'take' to db
+Mar. 24, 2022 1:37:10 PM workshop06_code.App main
+INFO: Added 'tale' to db
+Mar. 24, 2022 1:37:10 PM workshop06_code.App main
+INFO: Added 'talk' to db
+Mar. 24, 2022 1:37:10 PM workshop06_code.App main
+INFO: Added 'tall' to db
+Mar. 24, 2022 1:37:10 PM workshop06_code.App main
+INFO: Added 'tank' to db
+Mar. 24, 2022 1:37:10 PM workshop06_code.App main
+INFO: Added 'tape' to db
+Mar. 24, 2022 1:37:10 PM workshop06_code.App main
+INFO: Added 'task' to db
+Mar. 24, 2022 1:37:10 PM workshop06_code.App main
+INFO: Added 'team' to db
+Mar. 24, 2022 1:37:10 PM workshop06_code.App main
+INFO: Added 'tech' to db
+Mar. 24, 2022 1:37:10 PM workshop06_code.App main
+INFO: Added 'tell' to db
+Mar. 24, 2022 1:37:10 PM workshop06_code.App main
+INFO: Added 'tend' to db
+Mar. 24, 2022 1:37:10 PM workshop06_code.App main
+INFO: Added 'term' to db
+Mar. 24, 2022 1:37:10 PM workshop06_code.App main
+INFO: Added 'test' to db
+Mar. 24, 2022 1:37:10 PM workshop06_code.App main
+INFO: Added 'text' to db
+Mar. 24, 2022 1:37:10 PM workshop06_code.App main
+INFO: Added 'than' to db
+Mar. 24, 2022 1:37:10 PM workshop06_code.App main
+INFO: Added 'that' to db
+Mar. 24, 2022 1:37:10 PM workshop06_code.App main
+INFO: Added 'them' to db
+Mar. 24, 2022 1:37:10 PM workshop06_code.App main
+INFO: Added 'then' to db
+Mar. 24, 2022 1:37:10 PM workshop06_code.App main
+INFO: Added 'they' to db
+Mar. 24, 2022 1:37:10 PM workshop06_code.App main
+INFO: Added 'thin' to db
+Mar. 24, 2022 1:37:10 PM workshop06_code.App main
+INFO: Added 'this' to db
+Mar. 24, 2022 1:37:10 PM workshop06_code.App main
+INFO: Added 'thus' to db
+Mar. 24, 2022 1:37:10 PM workshop06_code.App main
+INFO: Added 'till' to db
+Mar. 24, 2022 1:37:10 PM workshop06_code.App main
+INFO: Added 'time' to db
+Mar. 24, 2022 1:37:10 PM workshop06_code.App main
+INFO: Added 'tiny' to db
+Mar. 24, 2022 1:37:10 PM workshop06_code.App main
+INFO: Added 'told' to db
+Mar. 24, 2022 1:37:10 PM workshop06_code.App main
+INFO: Added 'toll' to db
+Mar. 24, 2022 1:37:10 PM workshop06_code.App main
+INFO: Added 'tone' to db
+Mar. 24, 2022 1:37:10 PM workshop06_code.App main
+INFO: Added 'tony' to db
+Mar. 24, 2022 1:37:10 PM workshop06_code.App main
+INFO: Added 'took' to db
+Mar. 24, 2022 1:37:10 PM workshop06_code.App main
+INFO: Added 'tool' to db
+Mar. 24, 2022 1:37:10 PM workshop06_code.App main
+INFO: Added 'tour' to db
+Mar. 24, 2022 1:37:10 PM workshop06_code.App main
+INFO: Added 'town' to db
+Mar. 24, 2022 1:37:10 PM workshop06_code.App main
+INFO: Added 'tree' to db
+Mar. 24, 2022 1:37:10 PM workshop06_code.App main
+INFO: Added 'trip' to db
+Mar. 24, 2022 1:37:10 PM workshop06_code.App main
+INFO: Added 'true' to db
+Mar. 24, 2022 1:37:10 PM workshop06_code.App main
+INFO: Added 'tune' to db
+Mar. 24, 2022 1:37:10 PM workshop06_code.App main
+INFO: Added 'turn' to db
+Mar. 24, 2022 1:37:10 PM workshop06_code.App main
+INFO: Added 'twin' to db
+Mar. 24, 2022 1:37:10 PM workshop06_code.App main
+INFO: Added 'type' to db
+Mar. 24, 2022 1:37:10 PM workshop06_code.App main
+INFO: Added 'unit' to db
+Mar. 24, 2022 1:37:10 PM workshop06_code.App main
+INFO: Added 'upon' to db
+Mar. 24, 2022 1:37:10 PM workshop06_code.App main
+INFO: Added 'used' to db
+Mar. 24, 2022 1:37:10 PM workshop06_code.App main
+INFO: Added 'user' to db
+Mar. 24, 2022 1:37:10 PM workshop06_code.App main
+INFO: Added 'vary' to db
+Mar. 24, 2022 1:37:10 PM workshop06_code.App main
+INFO: Added 'vast' to db
+Mar. 24, 2022 1:37:10 PM workshop06_code.App main
+INFO: Added 'very' to db
+Mar. 24, 2022 1:37:10 PM workshop06_code.App main
+INFO: Added 'vice' to db
+Mar. 24, 2022 1:37:10 PM workshop06_code.App main
+INFO: Added 'view' to db
+Mar. 24, 2022 1:37:10 PM workshop06_code.App main
+INFO: Added 'vote' to db
+Mar. 24, 2022 1:37:10 PM workshop06_code.App main
+INFO: Added 'wage' to db
+Mar. 24, 2022 1:37:10 PM workshop06_code.App main
+INFO: Added 'wait' to db
+Mar. 24, 2022 1:37:10 PM workshop06_code.App main
+INFO: Added 'wake' to db
+Mar. 24, 2022 1:37:10 PM workshop06_code.App main
+INFO: Added 'walk' to db
+Mar. 24, 2022 1:37:10 PM workshop06_code.App main
+INFO: Added 'wall' to db
+Mar. 24, 2022 1:37:10 PM workshop06_code.App main
+INFO: Added 'want' to db
+Mar. 24, 2022 1:37:10 PM workshop06_code.App main
+INFO: Added 'ward' to db
+Mar. 24, 2022 1:37:10 PM workshop06_code.App main
+INFO: Added 'warm' to db
+Mar. 24, 2022 1:37:10 PM workshop06_code.App main
+INFO: Added 'wash' to db
+Mar. 24, 2022 1:37:10 PM workshop06_code.App main
+INFO: Added 'wave' to db
+Mar. 24, 2022 1:37:10 PM workshop06_code.App main
+INFO: Added 'ways' to db
+Mar. 24, 2022 1:37:10 PM workshop06_code.App main
+INFO: Added 'weak' to db
+Mar. 24, 2022 1:37:10 PM workshop06_code.App main
+INFO: Added 'wear' to db
+Mar. 24, 2022 1:37:10 PM workshop06_code.App main
+INFO: Added 'week' to db
+Mar. 24, 2022 1:37:10 PM workshop06_code.App main
+INFO: Added 'well' to db
+Mar. 24, 2022 1:37:10 PM workshop06_code.App main
+INFO: Added 'went' to db
+Mar. 24, 2022 1:37:10 PM workshop06_code.App main
+INFO: Added 'were' to db
+Mar. 24, 2022 1:37:10 PM workshop06_code.App main
+INFO: Added 'west' to db
+Mar. 24, 2022 1:37:10 PM workshop06_code.App main
+INFO: Added 'what' to db
+Mar. 24, 2022 1:37:10 PM workshop06_code.App main
+INFO: Added 'when' to db
+Mar. 24, 2022 1:37:10 PM workshop06_code.App main
+INFO: Added 'whom' to db
+Mar. 24, 2022 1:37:10 PM workshop06_code.App main
+INFO: Added 'wide' to db
+Mar. 24, 2022 1:37:10 PM workshop06_code.App main
+INFO: Added 'wife' to db
+Mar. 24, 2022 1:37:10 PM workshop06_code.App main
+INFO: Added 'wild' to db
+Mar. 24, 2022 1:37:10 PM workshop06_code.App main
+INFO: Added 'will' to db
+Mar. 24, 2022 1:37:10 PM workshop06_code.App main
+INFO: Added 'wind' to db
+Mar. 24, 2022 1:37:10 PM workshop06_code.App main
+INFO: Added 'wine' to db
+Mar. 24, 2022 1:37:10 PM workshop06_code.App main
+INFO: Added 'wing' to db
+Mar. 24, 2022 1:37:10 PM workshop06_code.App main
+INFO: Added 'wire' to db
+Mar. 24, 2022 1:37:10 PM workshop06_code.App main
+INFO: Added 'wise' to db
+Mar. 24, 2022 1:37:10 PM workshop06_code.App main
+INFO: Added 'wish' to db
+Mar. 24, 2022 1:37:10 PM workshop06_code.App main
+INFO: Added 'with' to db
+Mar. 24, 2022 1:37:10 PM workshop06_code.App main
+INFO: Added 'wood' to db
+Mar. 24, 2022 1:37:10 PM workshop06_code.App main
+INFO: Added 'word' to db
+Mar. 24, 2022 1:37:10 PM workshop06_code.App main
+INFO: Added 'wore' to db
+Mar. 24, 2022 1:37:10 PM workshop06_code.App main
+INFO: Added 'work' to db
+Mar. 24, 2022 1:37:10 PM workshop06_code.App main
+INFO: Added 'yard' to db
+Mar. 24, 2022 1:37:10 PM workshop06_code.App main
+INFO: Added 'yeah' to db
+Mar. 24, 2022 1:37:10 PM workshop06_code.App main
+INFO: Added 'year' to db
+Mar. 24, 2022 1:37:10 PM workshop06_code.App main
+INFO: Added 'your' to db
+Mar. 24, 2022 1:37:10 PM workshop06_code.App main
+INFO: Added 'zero' to db
+Mar. 24, 2022 1:37:10 PM workshop06_code.App main
+INFO: Added 'zone' to db
+Mar. 24, 2022 4:23:51 PM workshop06_code.SQLiteConnectionManager createNewDatabase
+INFO: The driver name is SQLite JDBC.
+ A new database has been created.
+Mar. 24, 2022 4:23:51 PM workshop06_code.App main
+INFO: Wordle created and connected.
+Mar. 24, 2022 4:23:51 PM workshop06_code.App main
+INFO: Wordle structures in place.
+Mar. 24, 2022 4:23:51 PM workshop06_code.App main
+INFO: Added 'able' to db
+Mar. 24, 2022 4:23:51 PM workshop06_code.App main
+INFO: Added 'acid' to db
+Mar. 24, 2022 4:23:51 PM workshop06_code.App main
+INFO: Added 'aged' to db
+Mar. 24, 2022 4:23:51 PM workshop06_code.App main
+INFO: Added 'also' to db
+Mar. 24, 2022 4:23:51 PM workshop06_code.App main
+INFO: Added 'area' to db
+Mar. 24, 2022 4:23:51 PM workshop06_code.App main
+INFO: Added 'army' to db
+Mar. 24, 2022 4:23:51 PM workshop06_code.App main
+INFO: Added 'away' to db
+Mar. 24, 2022 4:23:51 PM workshop06_code.App main
+INFO: Added 'baby' to db
+Mar. 24, 2022 4:23:51 PM workshop06_code.App main
+INFO: Added 'back' to db
+Mar. 24, 2022 4:23:51 PM workshop06_code.App main
+INFO: Added 'ball' to db
+Mar. 24, 2022 4:23:51 PM workshop06_code.App main
+INFO: Added 'band' to db
+Mar. 24, 2022 4:23:51 PM workshop06_code.App main
+INFO: Added 'bank' to db
+Mar. 24, 2022 4:23:51 PM workshop06_code.App main
+INFO: Added 'base' to db
+Mar. 24, 2022 4:23:51 PM workshop06_code.App main
+INFO: Added 'bath' to db
+Mar. 24, 2022 4:23:51 PM workshop06_code.App main
+INFO: Added 'bear' to db
+Mar. 24, 2022 4:23:51 PM workshop06_code.App main
+INFO: Added 'beat' to db
+Mar. 24, 2022 4:23:52 PM workshop06_code.App main
+INFO: Added 'been' to db
+Mar. 24, 2022 4:23:52 PM workshop06_code.App main
+INFO: Added 'beer' to db
+Mar. 24, 2022 4:23:52 PM workshop06_code.App main
+INFO: Added 'bell' to db
+Mar. 24, 2022 4:23:52 PM workshop06_code.App main
+INFO: Added 'belt' to db
+Mar. 24, 2022 4:23:52 PM workshop06_code.App main
+INFO: Added 'best' to db
+Mar. 24, 2022 4:23:52 PM workshop06_code.App main
+INFO: Added 'bill' to db
+Mar. 24, 2022 4:23:52 PM workshop06_code.App main
+INFO: Added 'bird' to db
+Mar. 24, 2022 4:23:52 PM workshop06_code.App main
+INFO: Added 'blow' to db
+Mar. 24, 2022 4:23:52 PM workshop06_code.App main
+INFO: Added 'blue' to db
+Mar. 24, 2022 4:23:52 PM workshop06_code.App main
+INFO: Added 'boat' to db
+Mar. 24, 2022 4:23:52 PM workshop06_code.App main
+INFO: Added 'body' to db
+Mar. 24, 2022 4:23:52 PM workshop06_code.App main
+INFO: Added 'bomb' to db
+Mar. 24, 2022 4:23:52 PM workshop06_code.App main
+INFO: Added 'bond' to db
+Mar. 24, 2022 4:23:52 PM workshop06_code.App main
+INFO: Added 'bone' to db
+Mar. 24, 2022 4:23:52 PM workshop06_code.App main
+INFO: Added 'book' to db
+Mar. 24, 2022 4:23:52 PM workshop06_code.App main
+INFO: Added 'boom' to db
+Mar. 24, 2022 4:23:52 PM workshop06_code.App main
+INFO: Added 'born' to db
+Mar. 24, 2022 4:23:52 PM workshop06_code.App main
+INFO: Added 'boss' to db
+Mar. 24, 2022 4:23:52 PM workshop06_code.App main
+INFO: Added 'both' to db
+Mar. 24, 2022 4:23:52 PM workshop06_code.App main
+INFO: Added 'bowl' to db
+Mar. 24, 2022 4:23:52 PM workshop06_code.App main
+INFO: Added 'bulk' to db
+Mar. 24, 2022 4:23:52 PM workshop06_code.App main
+INFO: Added 'burn' to db
+Mar. 24, 2022 4:23:52 PM workshop06_code.App main
+INFO: Added 'bush' to db
+Mar. 24, 2022 4:23:52 PM workshop06_code.App main
+INFO: Added 'busy' to db
+Mar. 24, 2022 4:23:52 PM workshop06_code.App main
+INFO: Added 'call' to db
+Mar. 24, 2022 4:23:52 PM workshop06_code.App main
+INFO: Added 'calm' to db
+Mar. 24, 2022 4:23:52 PM workshop06_code.App main
+INFO: Added 'came' to db
+Mar. 24, 2022 4:23:52 PM workshop06_code.App main
+INFO: Added 'camp' to db
+Mar. 24, 2022 4:23:52 PM workshop06_code.App main
+INFO: Added 'card' to db
+Mar. 24, 2022 4:23:52 PM workshop06_code.App main
+INFO: Added 'care' to db
+Mar. 24, 2022 4:23:52 PM workshop06_code.App main
+INFO: Added 'case' to db
+Mar. 24, 2022 4:23:52 PM workshop06_code.App main
+INFO: Added 'cash' to db
+Mar. 24, 2022 4:23:52 PM workshop06_code.App main
+INFO: Added 'cast' to db
+Mar. 24, 2022 4:23:52 PM workshop06_code.App main
+INFO: Added 'cell' to db
+Mar. 24, 2022 4:23:52 PM workshop06_code.App main
+INFO: Added 'chat' to db
+Mar. 24, 2022 4:23:52 PM workshop06_code.App main
+INFO: Added 'chip' to db
+Mar. 24, 2022 4:23:52 PM workshop06_code.App main
+INFO: Added 'city' to db
+Mar. 24, 2022 4:23:52 PM workshop06_code.App main
+INFO: Added 'club' to db
+Mar. 24, 2022 4:23:52 PM workshop06_code.App main
+INFO: Added 'coal' to db
+Mar. 24, 2022 4:23:52 PM workshop06_code.App main
+INFO: Added 'coat' to db
+Mar. 24, 2022 4:23:52 PM workshop06_code.App main
+INFO: Added 'code' to db
+Mar. 24, 2022 4:23:52 PM workshop06_code.App main
+INFO: Added 'cold' to db
+Mar. 24, 2022 4:23:52 PM workshop06_code.App main
+INFO: Added 'come' to db
+Mar. 24, 2022 4:23:52 PM workshop06_code.App main
+INFO: Added 'cook' to db
+Mar. 24, 2022 4:23:52 PM workshop06_code.App main
+INFO: Added 'cool' to db
+Mar. 24, 2022 4:23:52 PM workshop06_code.App main
+INFO: Added 'cope' to db
+Mar. 24, 2022 4:23:52 PM workshop06_code.App main
+INFO: Added 'copy' to db
+Mar. 24, 2022 4:23:52 PM workshop06_code.App main
+INFO: Added 'cost' to db
+Mar. 24, 2022 4:23:52 PM workshop06_code.App main
+INFO: Added 'crew' to db
+Mar. 24, 2022 4:23:52 PM workshop06_code.App main
+INFO: Added 'crop' to db
+Mar. 24, 2022 4:23:52 PM workshop06_code.App main
+INFO: Added 'dark' to db
+Mar. 24, 2022 4:23:52 PM workshop06_code.App main
+INFO: Added 'data' to db
+Mar. 24, 2022 4:23:52 PM workshop06_code.App main
+INFO: Added 'date' to db
+Mar. 24, 2022 4:23:52 PM workshop06_code.App main
+INFO: Added 'dawn' to db
+Mar. 24, 2022 4:23:52 PM workshop06_code.App main
+INFO: Added 'days' to db
+Mar. 24, 2022 4:23:52 PM workshop06_code.App main
+INFO: Added 'dead' to db
+Mar. 24, 2022 4:23:52 PM workshop06_code.App main
+INFO: Added 'deal' to db
+Mar. 24, 2022 4:23:52 PM workshop06_code.App main
+INFO: Added 'dean' to db
+Mar. 24, 2022 4:23:52 PM workshop06_code.App main
+INFO: Added 'dear' to db
+Mar. 24, 2022 4:23:52 PM workshop06_code.App main
+INFO: Added 'debt' to db
+Mar. 24, 2022 4:23:52 PM workshop06_code.App main
+INFO: Added 'deep' to db
+Mar. 24, 2022 4:23:52 PM workshop06_code.App main
+INFO: Added 'deny' to db
+Mar. 24, 2022 4:23:52 PM workshop06_code.App main
+INFO: Added 'desk' to db
+Mar. 24, 2022 4:23:52 PM workshop06_code.App main
+INFO: Added 'dial' to db
+Mar. 24, 2022 4:23:52 PM workshop06_code.App main
+INFO: Added 'dick' to db
+Mar. 24, 2022 4:23:52 PM workshop06_code.App main
+INFO: Added 'diet' to db
+Mar. 24, 2022 4:23:52 PM workshop06_code.App main
+INFO: Added 'disc' to db
+Mar. 24, 2022 4:23:52 PM workshop06_code.App main
+INFO: Added 'disk' to db
+Mar. 24, 2022 4:23:52 PM workshop06_code.App main
+INFO: Added 'does' to db
+Mar. 24, 2022 4:23:52 PM workshop06_code.App main
+INFO: Added 'done' to db
+Mar. 24, 2022 4:23:52 PM workshop06_code.App main
+INFO: Added 'door' to db
+Mar. 24, 2022 4:23:52 PM workshop06_code.App main
+INFO: Added 'dose' to db
+Mar. 24, 2022 4:23:52 PM workshop06_code.App main
+INFO: Added 'down' to db
+Mar. 24, 2022 4:23:52 PM workshop06_code.App main
+INFO: Added 'draw' to db
+Mar. 24, 2022 4:23:52 PM workshop06_code.App main
+INFO: Added 'drew' to db
+Mar. 24, 2022 4:23:52 PM workshop06_code.App main
+INFO: Added 'drop' to db
+Mar. 24, 2022 4:23:52 PM workshop06_code.App main
+INFO: Added 'drug' to db
+Mar. 24, 2022 4:23:52 PM workshop06_code.App main
+INFO: Added 'dual' to db
+Mar. 24, 2022 4:23:52 PM workshop06_code.App main
+INFO: Added 'duke' to db
+Mar. 24, 2022 4:23:52 PM workshop06_code.App main
+INFO: Added 'dust' to db
+Mar. 24, 2022 4:23:52 PM workshop06_code.App main
+INFO: Added 'duty' to db
+Mar. 24, 2022 4:23:52 PM workshop06_code.App main
+INFO: Added 'each' to db
+Mar. 24, 2022 4:23:52 PM workshop06_code.App main
+INFO: Added 'earn' to db
+Mar. 24, 2022 4:23:52 PM workshop06_code.App main
+INFO: Added 'ease' to db
+Mar. 24, 2022 4:23:52 PM workshop06_code.App main
+INFO: Added 'east' to db
+Mar. 24, 2022 4:23:52 PM workshop06_code.App main
+INFO: Added 'easy' to db
+Mar. 24, 2022 4:23:52 PM workshop06_code.App main
+INFO: Added 'edge' to db
+Mar. 24, 2022 4:23:52 PM workshop06_code.App main
+INFO: Added 'else' to db
+Mar. 24, 2022 4:23:52 PM workshop06_code.App main
+INFO: Added 'even' to db
+Mar. 24, 2022 4:23:52 PM workshop06_code.App main
+INFO: Added 'ever' to db
+Mar. 24, 2022 4:23:52 PM workshop06_code.App main
+INFO: Added 'evil' to db
+Mar. 24, 2022 4:23:52 PM workshop06_code.App main
+INFO: Added 'exit' to db
+Mar. 24, 2022 4:23:52 PM workshop06_code.App main
+INFO: Added 'face' to db
+Mar. 24, 2022 4:23:52 PM workshop06_code.App main
+INFO: Added 'fact' to db
+Mar. 24, 2022 4:23:52 PM workshop06_code.App main
+INFO: Added 'fail' to db
+Mar. 24, 2022 4:23:52 PM workshop06_code.App main
+INFO: Added 'fair' to db
+Mar. 24, 2022 4:23:52 PM workshop06_code.App main
+INFO: Added 'fall' to db
+Mar. 24, 2022 4:23:52 PM workshop06_code.App main
+INFO: Added 'farm' to db
+Mar. 24, 2022 4:23:52 PM workshop06_code.App main
+INFO: Added 'fast' to db
+Mar. 24, 2022 4:23:52 PM workshop06_code.App main
+INFO: Added 'fate' to db
+Mar. 24, 2022 4:23:52 PM workshop06_code.App main
+INFO: Added 'fear' to db
+Mar. 24, 2022 4:23:52 PM workshop06_code.App main
+INFO: Added 'feed' to db
+Mar. 24, 2022 4:23:52 PM workshop06_code.App main
+INFO: Added 'feel' to db
+Mar. 24, 2022 4:23:52 PM workshop06_code.App main
+INFO: Added 'feet' to db
+Mar. 24, 2022 4:23:52 PM workshop06_code.App main
+INFO: Added 'fell' to db
+Mar. 24, 2022 4:23:52 PM workshop06_code.App main
+INFO: Added 'felt' to db
+Mar. 24, 2022 4:23:52 PM workshop06_code.App main
+INFO: Added 'file' to db
+Mar. 24, 2022 4:23:52 PM workshop06_code.App main
+INFO: Added 'fill' to db
+Mar. 24, 2022 4:23:52 PM workshop06_code.App main
+INFO: Added 'film' to db
+Mar. 24, 2022 4:23:52 PM workshop06_code.App main
+INFO: Added 'find' to db
+Mar. 24, 2022 4:23:52 PM workshop06_code.App main
+INFO: Added 'fine' to db
+Mar. 24, 2022 4:23:52 PM workshop06_code.App main
+INFO: Added 'fire' to db
+Mar. 24, 2022 4:23:52 PM workshop06_code.App main
+INFO: Added 'firm' to db
+Mar. 24, 2022 4:23:52 PM workshop06_code.App main
+INFO: Added 'fish' to db
+Mar. 24, 2022 4:23:52 PM workshop06_code.App main
+INFO: Added 'five' to db
+Mar. 24, 2022 4:23:52 PM workshop06_code.App main
+INFO: Added 'flat' to db
+Mar. 24, 2022 4:23:52 PM workshop06_code.App main
+INFO: Added 'flow' to db
+Mar. 24, 2022 4:23:52 PM workshop06_code.App main
+INFO: Added 'food' to db
+Mar. 24, 2022 4:23:52 PM workshop06_code.App main
+INFO: Added 'foot' to db
+Mar. 24, 2022 4:23:52 PM workshop06_code.App main
+INFO: Added 'ford' to db
+Mar. 24, 2022 4:23:52 PM workshop06_code.App main
+INFO: Added 'form' to db
+Mar. 24, 2022 4:23:52 PM workshop06_code.App main
+INFO: Added 'fort' to db
+Mar. 24, 2022 4:23:52 PM workshop06_code.App main
+INFO: Added 'four' to db
+Mar. 24, 2022 4:23:52 PM workshop06_code.App main
+INFO: Added 'free' to db
+Mar. 24, 2022 4:23:52 PM workshop06_code.App main
+INFO: Added 'from' to db
+Mar. 24, 2022 4:23:52 PM workshop06_code.App main
+INFO: Added 'fuel' to db
+Mar. 24, 2022 4:23:52 PM workshop06_code.App main
+INFO: Added 'full' to db
+Mar. 24, 2022 4:23:52 PM workshop06_code.App main
+INFO: Added 'fund' to db
+Mar. 24, 2022 4:23:52 PM workshop06_code.App main
+INFO: Added 'gain' to db
+Mar. 24, 2022 4:23:52 PM workshop06_code.App main
+INFO: Added 'game' to db
+Mar. 24, 2022 4:23:52 PM workshop06_code.App main
+INFO: Added 'gate' to db
+Mar. 24, 2022 4:23:52 PM workshop06_code.App main
+INFO: Added 'gave' to db
+Mar. 24, 2022 4:23:52 PM workshop06_code.App main
+INFO: Added 'gear' to db
+Mar. 24, 2022 4:23:52 PM workshop06_code.App main
+INFO: Added 'gene' to db
+Mar. 24, 2022 4:23:52 PM workshop06_code.App main
+INFO: Added 'gift' to db
+Mar. 24, 2022 4:23:52 PM workshop06_code.App main
+INFO: Added 'girl' to db
+Mar. 24, 2022 4:23:52 PM workshop06_code.App main
+INFO: Added 'give' to db
+Mar. 24, 2022 4:23:52 PM workshop06_code.App main
+INFO: Added 'glad' to db
+Mar. 24, 2022 4:23:52 PM workshop06_code.App main
+INFO: Added 'goal' to db
+Mar. 24, 2022 4:23:52 PM workshop06_code.App main
+INFO: Added 'goes' to db
+Mar. 24, 2022 4:23:52 PM workshop06_code.App main
+INFO: Added 'gold' to db
+Mar. 24, 2022 4:23:52 PM workshop06_code.App main
+INFO: Added 'gone' to db
+Mar. 24, 2022 4:23:52 PM workshop06_code.App main
+INFO: Added 'good' to db
+Mar. 24, 2022 4:23:52 PM workshop06_code.App main
+INFO: Added 'gray' to db
+Mar. 24, 2022 4:23:52 PM workshop06_code.App main
+INFO: Added 'grew' to db
+Mar. 24, 2022 4:23:52 PM workshop06_code.App main
+INFO: Added 'grey' to db
+Mar. 24, 2022 4:23:52 PM workshop06_code.App main
+INFO: Added 'grow' to db
+Mar. 24, 2022 4:23:52 PM workshop06_code.App main
+INFO: Added 'gulf' to db
+Mar. 24, 2022 4:23:52 PM workshop06_code.App main
+INFO: Added 'hair' to db
+Mar. 24, 2022 4:23:52 PM workshop06_code.App main
+INFO: Added 'half' to db
+Mar. 24, 2022 4:23:53 PM workshop06_code.App main
+INFO: Added 'hall' to db
+Mar. 24, 2022 4:23:53 PM workshop06_code.App main
+INFO: Added 'hand' to db
+Mar. 24, 2022 4:23:53 PM workshop06_code.App main
+INFO: Added 'hang' to db
+Mar. 24, 2022 4:23:53 PM workshop06_code.App main
+INFO: Added 'hard' to db
+Mar. 24, 2022 4:23:53 PM workshop06_code.App main
+INFO: Added 'harm' to db
+Mar. 24, 2022 4:23:53 PM workshop06_code.App main
+INFO: Added 'hate' to db
+Mar. 24, 2022 4:23:53 PM workshop06_code.App main
+INFO: Added 'have' to db
+Mar. 24, 2022 4:23:53 PM workshop06_code.App main
+INFO: Added 'head' to db
+Mar. 24, 2022 4:23:53 PM workshop06_code.App main
+INFO: Added 'hear' to db
+Mar. 24, 2022 4:23:53 PM workshop06_code.App main
+INFO: Added 'heat' to db
+Mar. 24, 2022 4:23:53 PM workshop06_code.App main
+INFO: Added 'held' to db
+Mar. 24, 2022 4:23:53 PM workshop06_code.App main
+INFO: Added 'hell' to db
+Mar. 24, 2022 4:23:53 PM workshop06_code.App main
+INFO: Added 'help' to db
+Mar. 24, 2022 4:23:53 PM workshop06_code.App main
+INFO: Added 'here' to db
+Mar. 24, 2022 4:23:53 PM workshop06_code.App main
+INFO: Added 'hero' to db
+Mar. 24, 2022 4:23:53 PM workshop06_code.App main
+INFO: Added 'high' to db
+Mar. 24, 2022 4:23:53 PM workshop06_code.App main
+INFO: Added 'hill' to db
+Mar. 24, 2022 4:23:53 PM workshop06_code.App main
+INFO: Added 'hire' to db
+Mar. 24, 2022 4:23:53 PM workshop06_code.App main
+INFO: Added 'hold' to db
+Mar. 24, 2022 4:23:53 PM workshop06_code.App main
+INFO: Added 'hole' to db
+Mar. 24, 2022 4:23:53 PM workshop06_code.App main
+INFO: Added 'holy' to db
+Mar. 24, 2022 4:23:53 PM workshop06_code.App main
+INFO: Added 'home' to db
+Mar. 24, 2022 4:23:53 PM workshop06_code.App main
+INFO: Added 'hope' to db
+Mar. 24, 2022 4:23:53 PM workshop06_code.App main
+INFO: Added 'host' to db
+Mar. 24, 2022 4:23:53 PM workshop06_code.App main
+INFO: Added 'hour' to db
+Mar. 24, 2022 4:23:53 PM workshop06_code.App main
+INFO: Added 'huge' to db
+Mar. 24, 2022 4:23:53 PM workshop06_code.App main
+INFO: Added 'hung' to db
+Mar. 24, 2022 4:23:53 PM workshop06_code.App main
+INFO: Added 'hunt' to db
+Mar. 24, 2022 4:23:53 PM workshop06_code.App main
+INFO: Added 'hurt' to db
+Mar. 24, 2022 4:23:53 PM workshop06_code.App main
+INFO: Added 'idea' to db
+Mar. 24, 2022 4:23:53 PM workshop06_code.App main
+INFO: Added 'inch' to db
+Mar. 24, 2022 4:23:53 PM workshop06_code.App main
+INFO: Added 'into' to db
+Mar. 24, 2022 4:23:53 PM workshop06_code.App main
+INFO: Added 'iron' to db
+Mar. 24, 2022 4:23:53 PM workshop06_code.App main
+INFO: Added 'item' to db
+Mar. 24, 2022 4:23:53 PM workshop06_code.App main
+INFO: Added 'jack' to db
+Mar. 24, 2022 4:23:53 PM workshop06_code.App main
+INFO: Added 'jane' to db
+Mar. 24, 2022 4:23:53 PM workshop06_code.App main
+INFO: Added 'jean' to db
+Mar. 24, 2022 4:23:53 PM workshop06_code.App main
+INFO: Added 'john' to db
+Mar. 24, 2022 4:23:53 PM workshop06_code.App main
+INFO: Added 'join' to db
+Mar. 24, 2022 4:23:53 PM workshop06_code.App main
+INFO: Added 'jump' to db
+Mar. 24, 2022 4:23:53 PM workshop06_code.App main
+INFO: Added 'jury' to db
+Mar. 24, 2022 4:23:53 PM workshop06_code.App main
+INFO: Added 'just' to db
+Mar. 24, 2022 4:23:53 PM workshop06_code.App main
+INFO: Added 'keen' to db
+Mar. 24, 2022 4:23:53 PM workshop06_code.App main
+INFO: Added 'keep' to db
+Mar. 24, 2022 4:23:53 PM workshop06_code.App main
+INFO: Added 'kent' to db
+Mar. 24, 2022 4:23:53 PM workshop06_code.App main
+INFO: Added 'kept' to db
+Mar. 24, 2022 4:23:53 PM workshop06_code.App main
+INFO: Added 'kick' to db
+Mar. 24, 2022 4:23:53 PM workshop06_code.App main
+INFO: Added 'kill' to db
+Mar. 24, 2022 4:23:53 PM workshop06_code.App main
+INFO: Added 'kind' to db
+Mar. 24, 2022 4:23:53 PM workshop06_code.App main
+INFO: Added 'king' to db
+Mar. 24, 2022 4:23:53 PM workshop06_code.App main
+INFO: Added 'knee' to db
+Mar. 24, 2022 4:23:53 PM workshop06_code.App main
+INFO: Added 'knew' to db
+Mar. 24, 2022 4:23:53 PM workshop06_code.App main
+INFO: Added 'know' to db
+Mar. 24, 2022 4:23:53 PM workshop06_code.App main
+INFO: Added 'lack' to db
+Mar. 24, 2022 4:23:53 PM workshop06_code.App main
+INFO: Added 'lady' to db
+Mar. 24, 2022 4:23:53 PM workshop06_code.App main
+INFO: Added 'laid' to db
+Mar. 24, 2022 4:23:53 PM workshop06_code.App main
+INFO: Added 'lake' to db
+Mar. 24, 2022 4:23:53 PM workshop06_code.App main
+INFO: Added 'land' to db
+Mar. 24, 2022 4:23:53 PM workshop06_code.App main
+INFO: Added 'lane' to db
+Mar. 24, 2022 4:23:53 PM workshop06_code.App main
+INFO: Added 'last' to db
+Mar. 24, 2022 4:23:53 PM workshop06_code.App main
+INFO: Added 'late' to db
+Mar. 24, 2022 4:23:53 PM workshop06_code.App main
+INFO: Added 'lead' to db
+Mar. 24, 2022 4:23:53 PM workshop06_code.App main
+INFO: Added 'left' to db
+Mar. 24, 2022 4:23:53 PM workshop06_code.App main
+INFO: Added 'less' to db
+Mar. 24, 2022 4:23:53 PM workshop06_code.App main
+INFO: Added 'life' to db
+Mar. 24, 2022 4:23:53 PM workshop06_code.App main
+INFO: Added 'lift' to db
+Mar. 24, 2022 4:23:53 PM workshop06_code.App main
+INFO: Added 'like' to db
+Mar. 24, 2022 4:23:53 PM workshop06_code.App main
+INFO: Added 'line' to db
+Mar. 24, 2022 4:23:53 PM workshop06_code.App main
+INFO: Added 'link' to db
+Mar. 24, 2022 4:23:53 PM workshop06_code.App main
+INFO: Added 'list' to db
+Mar. 24, 2022 4:23:53 PM workshop06_code.App main
+INFO: Added 'live' to db
+Mar. 24, 2022 4:23:53 PM workshop06_code.App main
+INFO: Added 'load' to db
+Mar. 24, 2022 4:23:53 PM workshop06_code.App main
+INFO: Added 'loan' to db
+Mar. 24, 2022 4:23:53 PM workshop06_code.App main
+INFO: Added 'lock' to db
+Mar. 24, 2022 4:23:53 PM workshop06_code.App main
+INFO: Added 'logo' to db
+Mar. 24, 2022 4:23:53 PM workshop06_code.App main
+INFO: Added 'long' to db
+Mar. 24, 2022 4:23:53 PM workshop06_code.App main
+INFO: Added 'look' to db
+Mar. 24, 2022 4:23:53 PM workshop06_code.App main
+INFO: Added 'lord' to db
+Mar. 24, 2022 4:23:53 PM workshop06_code.App main
+INFO: Added 'lose' to db
+Mar. 24, 2022 4:23:53 PM workshop06_code.App main
+INFO: Added 'loss' to db
+Mar. 24, 2022 4:23:53 PM workshop06_code.App main
+INFO: Added 'lost' to db
+Mar. 24, 2022 4:23:53 PM workshop06_code.App main
+INFO: Added 'love' to db
+Mar. 24, 2022 4:23:53 PM workshop06_code.App main
+INFO: Added 'luck' to db
+Mar. 24, 2022 4:23:53 PM workshop06_code.App main
+INFO: Added 'made' to db
+Mar. 24, 2022 4:23:53 PM workshop06_code.App main
+INFO: Added 'mail' to db
+Mar. 24, 2022 4:23:53 PM workshop06_code.App main
+INFO: Added 'main' to db
+Mar. 24, 2022 4:23:53 PM workshop06_code.App main
+INFO: Added 'make' to db
+Mar. 24, 2022 4:23:53 PM workshop06_code.App main
+INFO: Added 'male' to db
+Mar. 24, 2022 4:23:53 PM workshop06_code.App main
+INFO: Added 'many' to db
+Mar. 24, 2022 4:23:53 PM workshop06_code.App main
+INFO: Added 'mass' to db
+Mar. 24, 2022 4:23:53 PM workshop06_code.App main
+INFO: Added 'matt' to db
+Mar. 24, 2022 4:23:53 PM workshop06_code.App main
+INFO: Added 'meal' to db
+Mar. 24, 2022 4:23:53 PM workshop06_code.App main
+INFO: Added 'mean' to db
+Mar. 24, 2022 4:23:53 PM workshop06_code.App main
+INFO: Added 'meat' to db
+Mar. 24, 2022 4:23:53 PM workshop06_code.App main
+INFO: Added 'meet' to db
+Mar. 24, 2022 4:23:53 PM workshop06_code.App main
+INFO: Added 'menu' to db
+Mar. 24, 2022 4:23:53 PM workshop06_code.App main
+INFO: Added 'mere' to db
+Mar. 24, 2022 4:23:53 PM workshop06_code.App main
+INFO: Added 'mike' to db
+Mar. 24, 2022 4:23:53 PM workshop06_code.App main
+INFO: Added 'mile' to db
+Mar. 24, 2022 4:23:53 PM workshop06_code.App main
+INFO: Added 'milk' to db
+Mar. 24, 2022 4:23:53 PM workshop06_code.App main
+INFO: Added 'mill' to db
+Mar. 24, 2022 4:23:53 PM workshop06_code.App main
+INFO: Added 'mind' to db
+Mar. 24, 2022 4:23:53 PM workshop06_code.App main
+INFO: Added 'mine' to db
+Mar. 24, 2022 4:23:53 PM workshop06_code.App main
+INFO: Added 'miss' to db
+Mar. 24, 2022 4:23:53 PM workshop06_code.App main
+INFO: Added 'mode' to db
+Mar. 24, 2022 4:23:53 PM workshop06_code.App main
+INFO: Added 'mood' to db
+Mar. 24, 2022 4:23:53 PM workshop06_code.App main
+INFO: Added 'moon' to db
+Mar. 24, 2022 4:23:53 PM workshop06_code.App main
+INFO: Added 'more' to db
+Mar. 24, 2022 4:23:53 PM workshop06_code.App main
+INFO: Added 'most' to db
+Mar. 24, 2022 4:23:53 PM workshop06_code.App main
+INFO: Added 'move' to db
+Mar. 24, 2022 4:23:53 PM workshop06_code.App main
+INFO: Added 'much' to db
+Mar. 24, 2022 4:23:53 PM workshop06_code.App main
+INFO: Added 'must' to db
+Mar. 24, 2022 4:23:53 PM workshop06_code.App main
+INFO: Added 'name' to db
+Mar. 24, 2022 4:23:53 PM workshop06_code.App main
+INFO: Added 'navy' to db
+Mar. 24, 2022 4:23:53 PM workshop06_code.App main
+INFO: Added 'near' to db
+Mar. 24, 2022 4:23:53 PM workshop06_code.App main
+INFO: Added 'neck' to db
+Mar. 24, 2022 4:23:53 PM workshop06_code.App main
+INFO: Added 'need' to db
+Mar. 24, 2022 4:23:53 PM workshop06_code.App main
+INFO: Added 'news' to db
+Mar. 24, 2022 4:23:53 PM workshop06_code.App main
+INFO: Added 'next' to db
+Mar. 24, 2022 4:23:53 PM workshop06_code.App main
+INFO: Added 'nice' to db
+Mar. 24, 2022 4:23:53 PM workshop06_code.App main
+INFO: Added 'nick' to db
+Mar. 24, 2022 4:23:53 PM workshop06_code.App main
+INFO: Added 'nine' to db
+Mar. 24, 2022 4:23:53 PM workshop06_code.App main
+INFO: Added 'none' to db
+Mar. 24, 2022 4:23:53 PM workshop06_code.App main
+INFO: Added 'nose' to db
+Mar. 24, 2022 4:23:53 PM workshop06_code.App main
+INFO: Added 'note' to db
+Mar. 24, 2022 4:23:53 PM workshop06_code.App main
+INFO: Added 'okay' to db
+Mar. 24, 2022 4:23:53 PM workshop06_code.App main
+INFO: Added 'once' to db
+Mar. 24, 2022 4:23:53 PM workshop06_code.App main
+INFO: Added 'only' to db
+Mar. 24, 2022 4:23:53 PM workshop06_code.App main
+INFO: Added 'onto' to db
+Mar. 24, 2022 4:23:53 PM workshop06_code.App main
+INFO: Added 'open' to db
+Mar. 24, 2022 4:23:53 PM workshop06_code.App main
+INFO: Added 'oral' to db
+Mar. 24, 2022 4:23:53 PM workshop06_code.App main
+INFO: Added 'over' to db
+Mar. 24, 2022 4:23:53 PM workshop06_code.App main
+INFO: Added 'pace' to db
+Mar. 24, 2022 4:23:53 PM workshop06_code.App main
+INFO: Added 'pack' to db
+Mar. 24, 2022 4:23:53 PM workshop06_code.App main
+INFO: Added 'page' to db
+Mar. 24, 2022 4:23:53 PM workshop06_code.App main
+INFO: Added 'paid' to db
+Mar. 24, 2022 4:23:53 PM workshop06_code.App main
+INFO: Added 'pain' to db
+Mar. 24, 2022 4:23:53 PM workshop06_code.App main
+INFO: Added 'pair' to db
+Mar. 24, 2022 4:23:53 PM workshop06_code.App main
+INFO: Added 'palm' to db
+Mar. 24, 2022 4:23:53 PM workshop06_code.App main
+INFO: Added 'park' to db
+Mar. 24, 2022 4:23:53 PM workshop06_code.App main
+INFO: Added 'part' to db
+Mar. 24, 2022 4:23:53 PM workshop06_code.App main
+INFO: Added 'pass' to db
+Mar. 24, 2022 4:23:53 PM workshop06_code.App main
+INFO: Added 'past' to db
+Mar. 24, 2022 4:23:53 PM workshop06_code.App main
+INFO: Added 'path' to db
+Mar. 24, 2022 4:23:53 PM workshop06_code.App main
+INFO: Added 'peak' to db
+Mar. 24, 2022 4:23:53 PM workshop06_code.App main
+INFO: Added 'pick' to db
+Mar. 24, 2022 4:23:53 PM workshop06_code.App main
+INFO: Added 'pink' to db
+Mar. 24, 2022 4:23:53 PM workshop06_code.App main
+INFO: Added 'pipe' to db
+Mar. 24, 2022 4:23:53 PM workshop06_code.App main
+INFO: Added 'plan' to db
+Mar. 24, 2022 4:23:53 PM workshop06_code.App main
+INFO: Added 'play' to db
+Mar. 24, 2022 4:23:53 PM workshop06_code.App main
+INFO: Added 'plot' to db
+Mar. 24, 2022 4:23:53 PM workshop06_code.App main
+INFO: Added 'plug' to db
+Mar. 24, 2022 4:23:53 PM workshop06_code.App main
+INFO: Added 'plus' to db
+Mar. 24, 2022 4:23:53 PM workshop06_code.App main
+INFO: Added 'poll' to db
+Mar. 24, 2022 4:23:53 PM workshop06_code.App main
+INFO: Added 'pool' to db
+Mar. 24, 2022 4:23:53 PM workshop06_code.App main
+INFO: Added 'poor' to db
+Mar. 24, 2022 4:23:53 PM workshop06_code.App main
+INFO: Added 'port' to db
+Mar. 24, 2022 4:23:53 PM workshop06_code.App main
+INFO: Added 'post' to db
+Mar. 24, 2022 4:23:53 PM workshop06_code.App main
+INFO: Added 'pull' to db
+Mar. 24, 2022 4:23:53 PM workshop06_code.App main
+INFO: Added 'pure' to db
+Mar. 24, 2022 4:23:53 PM workshop06_code.App main
+INFO: Added 'push' to db
+Mar. 24, 2022 4:23:53 PM workshop06_code.App main
+INFO: Added 'race' to db
+Mar. 24, 2022 4:23:53 PM workshop06_code.App main
+INFO: Added 'rail' to db
+Mar. 24, 2022 4:23:53 PM workshop06_code.App main
+INFO: Added 'rain' to db
+Mar. 24, 2022 4:23:53 PM workshop06_code.App main
+INFO: Added 'rank' to db
+Mar. 24, 2022 4:23:53 PM workshop06_code.App main
+INFO: Added 'rare' to db
+Mar. 24, 2022 4:23:53 PM workshop06_code.App main
+INFO: Added 'rate' to db
+Mar. 24, 2022 4:23:53 PM workshop06_code.App main
+INFO: Added 'read' to db
+Mar. 24, 2022 4:23:53 PM workshop06_code.App main
+INFO: Added 'real' to db
+Mar. 24, 2022 4:23:53 PM workshop06_code.App main
+INFO: Added 'rear' to db
+Mar. 24, 2022 4:23:53 PM workshop06_code.App main
+INFO: Added 'rely' to db
+Mar. 24, 2022 4:23:53 PM workshop06_code.App main
+INFO: Added 'rent' to db
+Mar. 24, 2022 4:23:53 PM workshop06_code.App main
+INFO: Added 'rest' to db
+Mar. 24, 2022 4:23:53 PM workshop06_code.App main
+INFO: Added 'rice' to db
+Mar. 24, 2022 4:23:53 PM workshop06_code.App main
+INFO: Added 'rich' to db
+Mar. 24, 2022 4:23:53 PM workshop06_code.App main
+INFO: Added 'ride' to db
+Mar. 24, 2022 4:23:54 PM workshop06_code.App main
+INFO: Added 'ring' to db
+Mar. 24, 2022 4:23:54 PM workshop06_code.App main
+INFO: Added 'rise' to db
+Mar. 24, 2022 4:23:54 PM workshop06_code.App main
+INFO: Added 'risk' to db
+Mar. 24, 2022 4:23:54 PM workshop06_code.App main
+INFO: Added 'road' to db
+Mar. 24, 2022 4:23:54 PM workshop06_code.App main
+INFO: Added 'rock' to db
+Mar. 24, 2022 4:23:54 PM workshop06_code.App main
+INFO: Added 'role' to db
+Mar. 24, 2022 4:23:54 PM workshop06_code.App main
+INFO: Added 'roll' to db
+Mar. 24, 2022 4:23:54 PM workshop06_code.App main
+INFO: Added 'roof' to db
+Mar. 24, 2022 4:23:54 PM workshop06_code.App main
+INFO: Added 'room' to db
+Mar. 24, 2022 4:23:54 PM workshop06_code.App main
+INFO: Added 'root' to db
+Mar. 24, 2022 4:23:54 PM workshop06_code.App main
+INFO: Added 'rose' to db
+Mar. 24, 2022 4:23:54 PM workshop06_code.App main
+INFO: Added 'rule' to db
+Mar. 24, 2022 4:23:54 PM workshop06_code.App main
+INFO: Added 'rush' to db
+Mar. 24, 2022 4:23:54 PM workshop06_code.App main
+INFO: Added 'ruth' to db
+Mar. 24, 2022 4:23:54 PM workshop06_code.App main
+INFO: Added 'safe' to db
+Mar. 24, 2022 4:23:54 PM workshop06_code.App main
+INFO: Added 'said' to db
+Mar. 24, 2022 4:23:54 PM workshop06_code.App main
+INFO: Added 'sake' to db
+Mar. 24, 2022 4:23:54 PM workshop06_code.App main
+INFO: Added 'sale' to db
+Mar. 24, 2022 4:23:54 PM workshop06_code.App main
+INFO: Added 'salt' to db
+Mar. 24, 2022 4:23:54 PM workshop06_code.App main
+INFO: Added 'same' to db
+Mar. 24, 2022 4:23:54 PM workshop06_code.App main
+INFO: Added 'sand' to db
+Mar. 24, 2022 4:23:54 PM workshop06_code.App main
+INFO: Added 'save' to db
+Mar. 24, 2022 4:23:54 PM workshop06_code.App main
+INFO: Added 'seat' to db
+Mar. 24, 2022 4:23:54 PM workshop06_code.App main
+INFO: Added 'seed' to db
+Mar. 24, 2022 4:23:54 PM workshop06_code.App main
+INFO: Added 'seek' to db
+Mar. 24, 2022 4:23:54 PM workshop06_code.App main
+INFO: Added 'seem' to db
+Mar. 24, 2022 4:23:54 PM workshop06_code.App main
+INFO: Added 'seen' to db
+Mar. 24, 2022 4:23:54 PM workshop06_code.App main
+INFO: Added 'self' to db
+Mar. 24, 2022 4:23:54 PM workshop06_code.App main
+INFO: Added 'sell' to db
+Mar. 24, 2022 4:23:54 PM workshop06_code.App main
+INFO: Added 'send' to db
+Mar. 24, 2022 4:23:54 PM workshop06_code.App main
+INFO: Added 'sent' to db
+Mar. 24, 2022 4:23:54 PM workshop06_code.App main
+INFO: Added 'sept' to db
+Mar. 24, 2022 4:23:54 PM workshop06_code.App main
+INFO: Added 'ship' to db
+Mar. 24, 2022 4:23:54 PM workshop06_code.App main
+INFO: Added 'shop' to db
+Mar. 24, 2022 4:23:54 PM workshop06_code.App main
+INFO: Added 'shot' to db
+Mar. 24, 2022 4:23:54 PM workshop06_code.App main
+INFO: Added 'show' to db
+Mar. 24, 2022 4:23:54 PM workshop06_code.App main
+INFO: Added 'shut' to db
+Mar. 24, 2022 4:23:54 PM workshop06_code.App main
+INFO: Added 'sick' to db
+Mar. 24, 2022 4:23:54 PM workshop06_code.App main
+INFO: Added 'side' to db
+Mar. 24, 2022 4:23:54 PM workshop06_code.App main
+INFO: Added 'sign' to db
+Mar. 24, 2022 4:23:54 PM workshop06_code.App main
+INFO: Added 'site' to db
+Mar. 24, 2022 4:23:54 PM workshop06_code.App main
+INFO: Added 'size' to db
+Mar. 24, 2022 4:23:54 PM workshop06_code.App main
+INFO: Added 'skin' to db
+Mar. 24, 2022 4:23:54 PM workshop06_code.App main
+INFO: Added 'slip' to db
+Mar. 24, 2022 4:23:54 PM workshop06_code.App main
+INFO: Added 'slow' to db
+Mar. 24, 2022 4:23:54 PM workshop06_code.App main
+INFO: Added 'snow' to db
+Mar. 24, 2022 4:23:54 PM workshop06_code.App main
+INFO: Added 'soft' to db
+Mar. 24, 2022 4:23:54 PM workshop06_code.App main
+INFO: Added 'soil' to db
+Mar. 24, 2022 4:23:54 PM workshop06_code.App main
+INFO: Added 'sold' to db
+Mar. 24, 2022 4:23:54 PM workshop06_code.App main
+INFO: Added 'sole' to db
+Mar. 24, 2022 4:23:54 PM workshop06_code.App main
+INFO: Added 'some' to db
+Mar. 24, 2022 4:23:54 PM workshop06_code.App main
+INFO: Added 'song' to db
+Mar. 24, 2022 4:23:54 PM workshop06_code.App main
+INFO: Added 'soon' to db
+Mar. 24, 2022 4:23:54 PM workshop06_code.App main
+INFO: Added 'sort' to db
+Mar. 24, 2022 4:23:54 PM workshop06_code.App main
+INFO: Added 'soul' to db
+Mar. 24, 2022 4:23:54 PM workshop06_code.App main
+INFO: Added 'spot' to db
+Mar. 24, 2022 4:23:54 PM workshop06_code.App main
+INFO: Added 'star' to db
+Mar. 24, 2022 4:23:54 PM workshop06_code.App main
+INFO: Added 'stay' to db
+Mar. 24, 2022 4:23:54 PM workshop06_code.App main
+INFO: Added 'step' to db
+Mar. 24, 2022 4:23:54 PM workshop06_code.App main
+INFO: Added 'stop' to db
+Mar. 24, 2022 4:23:54 PM workshop06_code.App main
+INFO: Added 'such' to db
+Mar. 24, 2022 4:23:54 PM workshop06_code.App main
+INFO: Added 'suit' to db
+Mar. 24, 2022 4:23:54 PM workshop06_code.App main
+INFO: Added 'sure' to db
+Mar. 24, 2022 4:23:54 PM workshop06_code.App main
+INFO: Added 'take' to db
+Mar. 24, 2022 4:23:54 PM workshop06_code.App main
+INFO: Added 'tale' to db
+Mar. 24, 2022 4:23:54 PM workshop06_code.App main
+INFO: Added 'talk' to db
+Mar. 24, 2022 4:23:54 PM workshop06_code.App main
+INFO: Added 'tall' to db
+Mar. 24, 2022 4:23:54 PM workshop06_code.App main
+INFO: Added 'tank' to db
+Mar. 24, 2022 4:23:54 PM workshop06_code.App main
+INFO: Added 'tape' to db
+Mar. 24, 2022 4:23:54 PM workshop06_code.App main
+INFO: Added 'task' to db
+Mar. 24, 2022 4:23:54 PM workshop06_code.App main
+INFO: Added 'team' to db
+Mar. 24, 2022 4:23:54 PM workshop06_code.App main
+INFO: Added 'tech' to db
+Mar. 24, 2022 4:23:54 PM workshop06_code.App main
+INFO: Added 'tell' to db
+Mar. 24, 2022 4:23:54 PM workshop06_code.App main
+INFO: Added 'tend' to db
+Mar. 24, 2022 4:23:54 PM workshop06_code.App main
+INFO: Added 'term' to db
+Mar. 24, 2022 4:23:54 PM workshop06_code.App main
+INFO: Added 'test' to db
+Mar. 24, 2022 4:23:54 PM workshop06_code.App main
+INFO: Added 'text' to db
+Mar. 24, 2022 4:23:54 PM workshop06_code.App main
+INFO: Added 'than' to db
+Mar. 24, 2022 4:23:54 PM workshop06_code.App main
+INFO: Added 'that' to db
+Mar. 24, 2022 4:23:54 PM workshop06_code.App main
+INFO: Added 'them' to db
+Mar. 24, 2022 4:23:54 PM workshop06_code.App main
+INFO: Added 'then' to db
+Mar. 24, 2022 4:23:54 PM workshop06_code.App main
+INFO: Added 'they' to db
+Mar. 24, 2022 4:23:54 PM workshop06_code.App main
+INFO: Added 'thin' to db
+Mar. 24, 2022 4:23:54 PM workshop06_code.App main
+INFO: Added 'this' to db
+Mar. 24, 2022 4:23:54 PM workshop06_code.App main
+INFO: Added 'thus' to db
+Mar. 24, 2022 4:23:54 PM workshop06_code.App main
+INFO: Added 'till' to db
+Mar. 24, 2022 4:23:54 PM workshop06_code.App main
+INFO: Added 'time' to db
+Mar. 24, 2022 4:23:54 PM workshop06_code.App main
+INFO: Added 'tiny' to db
+Mar. 24, 2022 4:23:54 PM workshop06_code.App main
+INFO: Added 'told' to db
+Mar. 24, 2022 4:23:54 PM workshop06_code.App main
+INFO: Added 'toll' to db
+Mar. 24, 2022 4:23:54 PM workshop06_code.App main
+INFO: Added 'tone' to db
+Mar. 24, 2022 4:23:54 PM workshop06_code.App main
+INFO: Added 'tony' to db
+Mar. 24, 2022 4:23:54 PM workshop06_code.App main
+INFO: Added 'took' to db
+Mar. 24, 2022 4:23:54 PM workshop06_code.App main
+INFO: Added 'tool' to db
+Mar. 24, 2022 4:23:54 PM workshop06_code.App main
+INFO: Added 'tour' to db
+Mar. 24, 2022 4:23:54 PM workshop06_code.App main
+INFO: Added 'town' to db
+Mar. 24, 2022 4:23:54 PM workshop06_code.App main
+INFO: Added 'tree' to db
+Mar. 24, 2022 4:23:54 PM workshop06_code.App main
+INFO: Added 'trip' to db
+Mar. 24, 2022 4:23:54 PM workshop06_code.App main
+INFO: Added 'true' to db
+Mar. 24, 2022 4:23:54 PM workshop06_code.App main
+INFO: Added 'tune' to db
+Mar. 24, 2022 4:23:54 PM workshop06_code.App main
+INFO: Added 'turn' to db
+Mar. 24, 2022 4:23:54 PM workshop06_code.App main
+INFO: Added 'twin' to db
+Mar. 24, 2022 4:23:54 PM workshop06_code.App main
+INFO: Added 'type' to db
+Mar. 24, 2022 4:23:54 PM workshop06_code.App main
+INFO: Added 'unit' to db
+Mar. 24, 2022 4:23:54 PM workshop06_code.App main
+INFO: Added 'upon' to db
+Mar. 24, 2022 4:23:54 PM workshop06_code.App main
+INFO: Added 'used' to db
+Mar. 24, 2022 4:23:54 PM workshop06_code.App main
+INFO: Added 'user' to db
+Mar. 24, 2022 4:23:54 PM workshop06_code.App main
+INFO: Added 'vary' to db
+Mar. 24, 2022 4:23:54 PM workshop06_code.App main
+INFO: Added 'vast' to db
+Mar. 24, 2022 4:23:54 PM workshop06_code.App main
+INFO: Added 'very' to db
+Mar. 24, 2022 4:23:54 PM workshop06_code.App main
+INFO: Added 'vice' to db
+Mar. 24, 2022 4:23:54 PM workshop06_code.App main
+INFO: Added 'view' to db
+Mar. 24, 2022 4:23:54 PM workshop06_code.App main
+INFO: Added 'vote' to db
+Mar. 24, 2022 4:23:54 PM workshop06_code.App main
+INFO: Added 'wage' to db
+Mar. 24, 2022 4:23:54 PM workshop06_code.App main
+INFO: Added 'wait' to db
+Mar. 24, 2022 4:23:54 PM workshop06_code.App main
+INFO: Added 'wake' to db
+Mar. 24, 2022 4:23:54 PM workshop06_code.App main
+INFO: Added 'walk' to db
+Mar. 24, 2022 4:23:54 PM workshop06_code.App main
+INFO: Added 'wall' to db
+Mar. 24, 2022 4:23:54 PM workshop06_code.App main
+INFO: Added 'want' to db
+Mar. 24, 2022 4:23:54 PM workshop06_code.App main
+INFO: Added 'ward' to db
+Mar. 24, 2022 4:23:54 PM workshop06_code.App main
+INFO: Added 'warm' to db
+Mar. 24, 2022 4:23:54 PM workshop06_code.App main
+INFO: Added 'wash' to db
+Mar. 24, 2022 4:23:54 PM workshop06_code.App main
+INFO: Added 'wave' to db
+Mar. 24, 2022 4:23:54 PM workshop06_code.App main
+INFO: Added 'ways' to db
+Mar. 24, 2022 4:23:54 PM workshop06_code.App main
+INFO: Added 'weak' to db
+Mar. 24, 2022 4:23:54 PM workshop06_code.App main
+INFO: Added 'wear' to db
+Mar. 24, 2022 4:23:54 PM workshop06_code.App main
+INFO: Added 'week' to db
+Mar. 24, 2022 4:23:54 PM workshop06_code.App main
+INFO: Added 'well' to db
+Mar. 24, 2022 4:23:54 PM workshop06_code.App main
+INFO: Added 'went' to db
+Mar. 24, 2022 4:23:54 PM workshop06_code.App main
+INFO: Added 'were' to db
+Mar. 24, 2022 4:23:54 PM workshop06_code.App main
+INFO: Added 'west' to db
+Mar. 24, 2022 4:23:54 PM workshop06_code.App main
+INFO: Added 'what' to db
+Mar. 24, 2022 4:23:54 PM workshop06_code.App main
+INFO: Added 'when' to db
+Mar. 24, 2022 4:23:54 PM workshop06_code.App main
+INFO: Added 'whom' to db
+Mar. 24, 2022 4:23:54 PM workshop06_code.App main
+INFO: Added 'wide' to db
+Mar. 24, 2022 4:23:54 PM workshop06_code.App main
+INFO: Added 'wife' to db
+Mar. 24, 2022 4:23:54 PM workshop06_code.App main
+INFO: Added 'wild' to db
+Mar. 24, 2022 4:23:54 PM workshop06_code.App main
+INFO: Added 'will' to db
+Mar. 24, 2022 4:23:54 PM workshop06_code.App main
+INFO: Added 'wind' to db
+Mar. 24, 2022 4:23:54 PM workshop06_code.App main
+INFO: Added 'wine' to db
+Mar. 24, 2022 4:23:54 PM workshop06_code.App main
+INFO: Added 'wing' to db
+Mar. 24, 2022 4:23:54 PM workshop06_code.App main
+INFO: Added 'wire' to db
+Mar. 24, 2022 4:23:54 PM workshop06_code.App main
+INFO: Added 'wise' to db
+Mar. 24, 2022 4:23:54 PM workshop06_code.App main
+INFO: Added 'wish' to db
+Mar. 24, 2022 4:23:54 PM workshop06_code.App main
+INFO: Added 'with' to db
+Mar. 24, 2022 4:23:54 PM workshop06_code.App main
+INFO: Added 'wood' to db
+Mar. 24, 2022 4:23:54 PM workshop06_code.App main
+INFO: Added 'word' to db
+Mar. 24, 2022 4:23:54 PM workshop06_code.App main
+INFO: Added 'wore' to db
+Mar. 24, 2022 4:23:54 PM workshop06_code.App main
+INFO: Added 'work' to db
+Mar. 24, 2022 4:23:54 PM workshop06_code.App main
+INFO: Added 'yard' to db
+Mar. 24, 2022 4:23:54 PM workshop06_code.App main
+INFO: Added 'yeah' to db
+Mar. 24, 2022 4:23:54 PM workshop06_code.App main
+INFO: Added 'year' to db
+Mar. 24, 2022 4:23:54 PM workshop06_code.App main
+INFO: Added 'your' to db
+Mar. 24, 2022 4:23:54 PM workshop06_code.App main
+INFO: Added 'zero' to db
+Mar. 24, 2022 4:23:54 PM workshop06_code.App main
+INFO: Added 'zone' to db
+Mar. 24, 2022 4:24:02 PM workshop06_code.App main
+WARNING: User attempt to guess 'no'. Not a valid word.
